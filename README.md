@@ -27,7 +27,7 @@ This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 
 about the Dataset
 <div align='center'>
-  Sự Phân bố Data trong tập Train
+  - Sự Phân bố Data trong tập Train
   <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/350086301_782413139935465_3883925688254512873_n.png">
   Sự Phân bố Data trong tập Test
   <img width ="1440" alt="demo2" src = "https://user-images.githubusercontent.com/350081346_590272103168458_7814506249044237022_n.png">
@@ -38,7 +38,7 @@ about the Dataset
 ## 3. Results
 
 <div align='center'>
-  [Confustion maxtrix - Naive Bayes]
+  Confustion maxtrix - Naive Bayes
   <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
   Confustion maxtrix - KNN
   <img width ="1440" alt="demo2" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">

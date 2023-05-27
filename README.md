@@ -26,25 +26,26 @@ Throughout this work, there are many approach and we choose SVM, KNN, Bayes to c
 This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 
 about the Dataset
+  Sự Phân bố Data trong tập Train
 <div align='center'>
-  - Sự Phân bố Data trong tập Train
-  <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/350086301_782413139935465_3883925688254512873_n.png">
-  Sự Phân bố Data trong tập Test
-  <img width ="1440" alt="demo2" src = "https://user-images.githubusercontent.com/350081346_590272103168458_7814506249044237022_n.png">
-
+  <img width="1440" alt="Dataset for train" src = "https://user-images.githubusercontent.com/350086301_782413139935465_3883925688254512873_n.png">
 </div>
 
-
-## 3. Results
-
+ Sự Phân bố Data trong tập Test
 <div align='center'>
+ <img width ="1440" alt="Dataset for test" src = "https://user-images.githubusercontent.com/350081346_590272103168458_7814506249044237022_n.png">
+</div>
+## 3. Results
   Confustion maxtrix - Naive Bayes
-  <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
-  Confustion maxtrix - KNN
-  <img width ="1440" alt="demo2" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">
-  Confustion maxtrix - SVM
-  <img width ="1440" alt = "demo3" src ="https://user-images.githubusercontent.com/350090809_943613673628366_8404256624121486071_n.png">
+<div align='center'>
+  <img width="1440" alt="Naive Bayes" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
 
+  <img width ="1440" alt="KNN" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">
+
+  <img width ="1440" alt = "SVM" src ="https://user-images.githubusercontent.com/350090809_943613673628366_8404256624121486071_n.png">
+  Confustion maxtrix - KNN
+  
+    Confustion maxtrix - SVM
 </div>
 
 ## 4. References

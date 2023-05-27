@@ -35,18 +35,24 @@ about the Dataset
 <div align='center'>
  <img width ="1440" alt="Dataset for test" src = "https://user-images.githubusercontent.com/350081346_590272103168458_7814506249044237022_n.png">
 </div>
+
 ## 3. Results
   Confustion maxtrix - Naive Bayes
 <div align='center'>
   <img width="1440" alt="Naive Bayes" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
-
-  <img width ="1440" alt="KNN" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">
-
-  <img width ="1440" alt = "SVM" src ="https://user-images.githubusercontent.com/350090809_943613673628366_8404256624121486071_n.png">
-  Confustion maxtrix - KNN
-  
-    Confustion maxtrix - SVM
 </div>
+
+  Confustion maxtrix - KNN
+<div align='center'>
+  <img width ="1440" alt="KNN" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">
+</div>
+
+  Confustion maxtrix - SVM
+<div align='center'>
+  <img width ="1440" alt = "SVM" src ="https://user-images.githubusercontent.com/350090809_943613673628366_8404256624121486071_n.png">
+</div>
+  
+
 
 ## 4. References
 Our work is inspired from:

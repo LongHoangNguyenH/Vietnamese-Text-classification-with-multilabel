@@ -38,7 +38,7 @@ about the Dataset
 ## 3. Results
 
 <div align='center'>
-  Confustion maxtrix - Naive Bayes
+  [Confustion maxtrix - Naive Bayes]
   <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
   Confustion maxtrix - KNN
   <img width ="1440" alt="demo2" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">

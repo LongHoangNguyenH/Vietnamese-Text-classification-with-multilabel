@@ -42,6 +42,7 @@ Confustion maxtrix - KNN
 Confustion maxtrix - SVM
 ![Confustion maxtrix using SVM](./images/SVM.png "An optional title")
   
+<img src="./images/KNN.png" alt="description of image" width="500">
 
 ## 4. References
 Our work is inspired from:

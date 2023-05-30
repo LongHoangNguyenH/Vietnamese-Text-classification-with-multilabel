@@ -28,12 +28,12 @@ This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 about the Dataset
   Sự Phân bố Data trong tập Train
 <div align='center'>
-  <img width="1440" alt="Dataset for train" src = "./images/train_Data">
+![Train_Data distribution image](./images/train_Data.png "An optional title")
 </div>
 
  Sự Phân bố Data trong tập Test
 <div align='center'>
- <img width ="1440" alt="Dataset for test" src = "https://user-images.githubusercontent.com/350081346_590272103168458_7814506249044237022_n.png">
+    ![Train_Data distribution image](./images/Test_data.png "An optional title")
 </div>
 
 ## 3. Results

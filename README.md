@@ -37,12 +37,12 @@ Confustion matrix - Naive Bayes
 ![Confusion matrix when using Naive Bayes](./images/bayes.png "An optional title")
 
 Confustion maxtrix - KNN
-![Confusion matrix using KNN](./images/KNN.png "An optional title")
+<img src="./images/KNN.png" alt="Confusion matrix using KNN" width="400">
 
 Confustion maxtrix - SVM
 ![Confustion maxtrix using SVM](./images/SVM.png "An optional title")
   
-<img src="./images/KNN.png" alt="description of image" width="400">
+<img src="./images/KNN.png" alt="Confustion maxtrix using SVM" width="400">
 
 ## 4. References
 Our work is inspired from:

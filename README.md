@@ -27,30 +27,25 @@ This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 
 about the Dataset
   Sự Phân bố Data trong tập Train
-<div align='center'>
-![Train_Data distribution image](./images/train_Data.png "An optional title")
-</div>
+![Train_Data distribution](./images/train_Data.png "An optional title")
+
 
  Sự Phân bố Data trong tập Test
-<div align='center'>
-    ![Train_Data distribution image](./images/Test_data.png "An optional title")
-</div>
+ ![Test_Data distribution](./images/Test_data.png "An optional title")
 
 ## 3. Results
-  Confustion maxtrix - Naive Bayes
-<div align='center'>
-  <img width="1440" alt="Naive Bayes" src = "https://user-images.githubusercontent.com/350121621_3450544831880237_7033670595741997097_n.png">
-</div>
+  Confustion matrix - Naive Bayes
+
+![Confusion matrix when using Naive Bayes](./images/bayes.png "An optional title")
+
 
   Confustion maxtrix - KNN
-<div align='center'>
-  <img width ="1440" alt="KNN" src = "https://user-images.githubusercontent.com/350095288_277181891442017_5369898222638496184_n.png">
-</div>
+
+![Confusion matrix using KNN](./images/KNN.png "An optional title")
+
 
   Confustion maxtrix - SVM
-<div align='center'>
-  <img width ="1440" alt = "SVM" src ="https://user-images.githubusercontent.com/350090809_943613673628366_8404256624121486071_n.png">
-</div>
+![Confustion maxtrix using SVM](./images/SVM.png "An optional title")
   
 
 

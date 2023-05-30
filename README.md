@@ -26,28 +26,22 @@ Throughout this work, there are many approach and we choose SVM, KNN, Bayes to c
 This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 
 about the Dataset
-  Sự Phân bố Data trong tập Train
+Sự Phân bố Data trong tập Train
 ![Train_Data distribution](./images/train_Data.png "An optional title")
 
-
- Sự Phân bố Data trong tập Test
- ![Test_Data distribution](./images/Test_data.png "An optional title")
+Sự Phân bố Data trong tập Test
+![Test_Data distribution](./images/Test_data.png "An optional title")
 
 ## 3. Results
-  Confustion matrix - Naive Bayes
-
+Confustion matrix - Naive Bayes
 ![Confusion matrix when using Naive Bayes](./images/bayes.png "An optional title")
 
-
-  Confustion maxtrix - KNN
-
+Confustion maxtrix - KNN
 ![Confusion matrix using KNN](./images/KNN.png "An optional title")
 
-
-  Confustion maxtrix - SVM
+Confustion maxtrix - SVM
 ![Confustion maxtrix using SVM](./images/SVM.png "An optional title")
   
-
 
 ## 4. References
 Our work is inspired from:

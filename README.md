@@ -27,22 +27,20 @@ This Dataset we collected from https://github.com/duyvuleo/VNTC/tree/master/Data
 
 about the Dataset
 Sự Phân bố Data trong tập Train
-![Train_Data distribution](./images/train_Data.png "An optional title")
+<img src="./images/train_Data.png" alt="Test data distribution" width="300">
 
 Sự Phân bố Data trong tập Test
-![Test_Data distribution](./images/Test_data.png "An optional title")
+<img src="./images/Test_data.png" alt="Train data distribution" width="300">
 
 ## 3. Results
 Confustion matrix - Naive Bayes
-![Confusion matrix when using Naive Bayes](./images/bayes.png "An optional title")
+<img src="./images/bayes.png" alt="Confusion matrix using Naive Bayes" width="300">
 
 Confustion maxtrix - KNN
-<img src="./images/KNN.png" alt="Confusion matrix using KNN" width="400">
+<img src="./images/KNN.png" alt="Confusion matrix using KNN" width="300">
 
 Confustion maxtrix - SVM
-![Confustion maxtrix using SVM](./images/SVM.png "An optional title")
-  
-<img src="./images/KNN.png" alt="Confustion maxtrix using SVM" width="400">
+<img src="./images/KNN.png" alt="Confustion maxtrix using SVM" width="300">
 
 ## 4. References
 Our work is inspired from:
